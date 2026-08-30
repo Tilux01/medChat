@@ -1,0 +1,21 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+  --mindease-green: #4F6F52;
+  --mindease-mint: #D2E3C8;
+  --mindease-slate: #435B66;
+  --mindease-cream: #F8F9F4;
+  --mindease-white: #FFFFFF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--mindease-cream);
+  color: var(--mindease-slate);
+} */

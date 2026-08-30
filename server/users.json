@@ -1,0 +1,44 @@
+[
+  {
+    "id": "09f03e96-dcad-4eac-81ed-4dfc1e224f28",
+    "name": "Tatyana Koch",
+    "email": "gyzaredip@mailinator.com",
+    "password": "$2a$10$YaNeL1o.l4sp43AHWzspn.wNqqgwQ4Apci0MTIK71lOlDzMAf/1q.",
+    "createdAt": "2026-06-09T09:50:06.927Z"
+  },
+  {
+    "id": "3ea8a0be-d03e-4be5-80bb-8353490c617e",
+    "name": "Jillian Jensen",
+    "email": "rezupuzeso@mailinator.com",
+    "password": "$2a$10$/I6mlJBOj42qdXpd9zuAGOMVH8SrpM/DX5n86PFN9lu4Yi3RFAuj.",
+    "createdAt": "2026-06-09T09:51:07.350Z"
+  },
+  {
+    "id": "674b989f-c3e5-4ca0-81f7-00d4a3c9e687",
+    "name": "Ezra Mccarty",
+    "email": "jorepavoc@mailinator.com",
+    "password": "$2a$10$SWBXIrUHpTxz56I7HZu.hO9UUsX2Na7Z65ttHLvMrdjJU9dHy.pqG",
+    "createdAt": "2026-06-09T09:55:26.722Z"
+  },
+  {
+    "id": "b4c2b881-df1c-4b76-b5dd-703673ba93fc",
+    "name": "Nyssa Mcguire",
+    "email": "gevix@mailinator.com",
+    "password": "$2a$10$QoOk01j3O7XW1HkjvHSsv.QD5Eb20YkswAz4TIkxM8eETEHe9fiHq",
+    "createdAt": "2026-06-09T10:04:59.868Z"
+  },
+  {
+    "id": "36a829fc-a010-4f41-8ea3-cb4b66a6da5e",
+    "name": "Zephania Acosta",
+    "email": "zefatohafe@mailinator.com",
+    "password": "$2a$10$fywF4BVKbCUwVsV3uys88eQMERj/YVTOGvUUu7lSthHzRYmL5oQW.",
+    "createdAt": "2026-06-09T10:06:23.897Z"
+  },
+  {
+    "id": "5d664811-f9ce-4f51-9928-3e115cf6ae8c",
+    "name": "Tilux Israel",
+    "email": "adekolaisrael03@gmail.com",
+    "password": "$2a$10$cHruH6TLaHDCtb/o/dUNTe.vfQGS5gCCJppvDx0QxIofFNAQq5iL.",
+    "createdAt": "2026-07-29T12:24:33.504Z"
+  }
+]
